@@ -36,6 +36,8 @@
 ### Com abordagens em LIVES , DESAFIOS E PROFETOS Para Conclusão.
 
 ## Links e Ferramentas:
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/) 
+
 https://web.digitalinnovation.one/home 
 
 Visual Studio Code:https://code.visualstudio.com/download
