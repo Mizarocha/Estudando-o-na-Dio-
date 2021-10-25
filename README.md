@@ -1,4 +1,4 @@
-# Estudando na DIO
+# Estudando na DIO.
 
 ![readme-bootcamp-image](https://user-images.githubusercontent.com/88461178/138758694-f3c35bbd-03d5-418f-a96d-267d2441c66f.png)
 
